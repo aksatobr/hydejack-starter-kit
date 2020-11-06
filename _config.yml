@@ -25,11 +25,10 @@ title:                 Alexandre Kazuo Sato
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  IT Infrastructure and Server Management Specialist. Solution architect for On-Premisse and Cloud
-  environments, IaaS/PaaS, Docker, Kubernetes, OpenShift, AWS, Microsoft Azure and IBM Cloud.
+  Personal website for Alexandre Kazuo Sato
 
 # A shorter description for the sidebar.
-tagline:               Personal website for Alexandre Kazuo Sato
+tagline:               Swipe left to access site or choose options above
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,13 +41,15 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Alexandre Sato
+  email:               contato@aksato.com.br
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             Info
+    url:               /info/
   - title:             Example
     url:               /example/
   - title:             Documentation
