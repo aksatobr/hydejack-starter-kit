@@ -8,11 +8,19 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Infrastructure and Systems Management Specialist, focused in mission-critical IT environments
-    using Cloud IaaS/PaaS with Docker, Kubernetes and OpenShift; automation using Ansible, aligned
-    with DevOps methodology.
+    Over 20 years experienced IT Technical Specialist in mission-critial systems for IT infrastructure
+    on banking, manufacturing, supply-chain, retail, finance and telco industries.
     
-    Open `_data/authors.yml` to edit this text.
+    Jobs Roles: Solutions Architect, Technical Specialist in Server Management and IT Service Support
+    and delivery, Technical Team Leadership (as Subject Matter Expert/Account Focal).
+
+    - Specialties: Server architecture, consolidation, virtualization, acquisition, outsourcing, cloud
+    transformation (IaaS and PaaS).
+
+    - Skills: UNIX-based platforms (Open Systems), high availability solutions, storage sub-systems
+    (disk and backup solutions), ERP, CRM and BI infrastructures, application middleware, containers
+    (Docker, Swarm, Kubernetes, OpenShift), automation with Ansible.
+
 
   # This photo will be used in the about section
   picture:
