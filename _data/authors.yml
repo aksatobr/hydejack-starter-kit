@@ -8,20 +8,21 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Over 20 years experienced IT Technical Specialist in mission-critial systems for IT infrastructure
+    Over 20 years experienced IT technical specialist in mission-critial systems for IT infrastructure
     on banking, manufacturing, supply-chain, retail, finance and telco industries.
     
-    Jobs Roles: Solutions Architect, Technical Specialist in Server Management and IT Service Support
-    and delivery, Technical Team Leadership (as Subject Matter Expert/Account Focal).
+    Jobs Roles: Solutions architect, technical specialist in server management and IT service support
+    and delivery, technical team leadership (as subject matter expert / account focal).
 
-    - Specialties: Server architecture, consolidation, virtualization, acquisition, outsourcing, cloud
-    transformation (IaaS and PaaS).
+    - Specialties: Server architecture, consolidation, virtualization, acquisition, outsourcing,
+    cloud transformation (IaaS and PaaS), DevOps.
 
     - Skills: UNIX-based platforms (Open Systems), high availability solutions, storage sub-systems
     (disk and backup solutions), ERP, CRM and BI infrastructures, application middleware, containers
     (Docker, Swarm, Kubernetes, OpenShift), automation with Ansible.
 
-
+    Check out my resume here.
+    
   # This photo will be used in the about section
   picture:
     path:            /assets/img/128x128.jpg
