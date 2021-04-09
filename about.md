@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Brief description about my professional habilities.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,6 +12,9 @@ redirect_from:
 
 <!--author-->
 
+## Gaming
+
+Also
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
